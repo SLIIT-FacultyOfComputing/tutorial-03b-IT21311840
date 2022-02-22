@@ -1,7 +1,6 @@
 #include <iostream>
 
 using namespace std;
-
 int volume(int height, int width, int length);
 
 // 1. Define a structure called Box
